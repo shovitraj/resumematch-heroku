@@ -1,0 +1,5 @@
+numpy==1.19.2
+tika==1.24
+nltk==3.5
+streamlit==0.77.0
+scikit_learn==0.24.1
