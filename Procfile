@@ -1,1 +1,1 @@
-Web: sh setup.sh && streamline run app.py
+web: sh setup.sh && streamline run app.py
